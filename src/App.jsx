@@ -185,10 +185,10 @@ export default function App() {
               color='text.primary'
               gutterBottom
             >
-              Front End Mentor Solutions
+              Frontend Mentor Solutions
             </Typography>
             <Typography variant='h5' align='center' color='text.secondary' paragraph>
-              My solutions in Front End Mentor challenges. All written in pure HTML, CSS, and JavaScript.
+              My solutions in Frontend Mentor challenges. All written in pure HTML, CSS, and JavaScript.
             </Typography>
           </Container>}
         </Box>
