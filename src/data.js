@@ -146,4 +146,4 @@ export const data = [
     type: 'Landing Page',
     desc: 'Flex your layout muscles with this landing page challenge. You\'ll mostly be working with HTML & CSS for this project with a tiny bit of JS for the mobile menu.'
   },
-]
+].sort((a, b) => a.title.localeCompare(b.title));
