@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { data } from './data'
-import Filter from './filter'
+import Filter from './Filter.jsx'
 import Button from '@mui/material/Button'
 import Card from '@mui/material/Card'
 import CardActions from '@mui/material/CardActions'
